@@ -118,10 +118,6 @@ streamlit run app.py
 # Open your browser to http://localhost:8501
 ```
 
-### Option 3: Docker Deployment
-```bash
-# Coming soon! Docker containerization in progress 🐳
-```
 
 ## 📚 Complete User Manual
 
