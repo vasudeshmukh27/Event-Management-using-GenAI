@@ -11,7 +11,7 @@
 [![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-1E40AF?style=flat&logo=stability-ai&logoColor=white)](https://stability.ai)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
 
-**🚀 [Live Demo](https://your-app-name.streamlit.app) | 📚 [Documentation](#documentation) | 🎨 [Gallery](#gallery) | 🤝 [Contributing](#contributing)**
+**🚀 [Live Demo](https://event-management-using-genai.streamlit.app/) | 📚 [Documentation](#documentation) | 🎨 [Gallery](#gallery) | 🤝 [Contributing](#contributing)**
 
 ---
 
@@ -332,9 +332,7 @@ Special thanks to our amazing contributors:
 
 ### 🌍 Community
 - **⭐ Star this repo** if EventGen AI helped you!
-- **🐦 Follow us on Twitter**: [@EventGenAI](https://twitter.com/eventgenai)  
-- **💼 Connect on LinkedIn**: [EventGen AI](https://linkedin.com/company/eventgen-ai)
-- **🎥 YouTube Channel**: Tutorials and case studies
+- **💼 Connect on LinkedIn**: [Vasu Deshmukh](https://www.linkedin.com/in/vasu-deshmukh/)
 
 ## 📜 License & Legal
 
@@ -370,21 +368,7 @@ SOFTWARE.
 - **Other dependencies**: Various open source licenses (see requirements.txt)
 
 
-## 📊 Analytics & Metrics
 
-### Success Stories  
-> *"EventGen AI reduced our event planning time from 3 weeks to 2 hours!"* - Tech Conference Organizer
-
-> *"The AI-generated posters looked so professional, attendees thought we hired a design agency!"* - Academic Conference Director
-
-> *"Zero scheduling conflicts for the first time in 10 years of organizing events."* - Corporate Event Manager
-
-### Usage Statistics
-- **🎪 Events Planned**: 1,000+ and growing
-- **⏱️ Time Saved**: 10,000+ hours of manual work eliminated  
-- **🎨 Posters Generated**: 5,000+ professional designs created
-- **📅 Calendars Exported**: 15,000+ .ics files downloaded
-- **⭐ User Satisfaction**: 4.9/5 stars average rating
 
 ## 🏁 Conclusion
 
@@ -398,7 +382,7 @@ Whether you're organizing your first workshop or managing a global conference se
 
 [![Deploy to Streamlit Cloud](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io)
 
-**🚀 [Start Your Free Deployment Now](https://share.streamlit.io) | 💫 [View Live Demo](https://your-app-name.streamlit.app)**
+**🚀 [Start Your Free Deployment Now](https://share.streamlit.io) | 💫 [View Live Demo](https://event-management-using-genai.streamlit.app/)**
 
 ---
 
