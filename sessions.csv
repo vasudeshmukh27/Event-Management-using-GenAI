@@ -1,0 +1,12 @@
+title,duration,speaker,track,expected_attendance
+Opening Keynote,60,Dr. Smith,General,200
+AI Workshop,90,Prof. Johnson,Technical,50
+Panel Discussion,45,Industry Panel,Business,100
+Technical Deep Dive,75,Tech Lead,Technical,30
+Machine Learning Basics,60,Data Scientist,Technical,80
+Business Strategy,45,CEO Panel,Business,120
+Networking Break,30,Organizers,General,200
+Innovation Showcase,60,Startup Founders,Business,90
+Hands-on Lab,120,Workshop Leader,Technical,40
+Future of AI,45,Research Team,Technical,70
+Closing Remarks,30,Event Host,General,150
